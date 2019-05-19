@@ -1,0 +1,3 @@
+El estudiante elias con cedula 1234 
+se ha matrículado al curso llamado Node JS 
+el cual tiene una duración de 32 horas y tiene un costo de $0 pesos
